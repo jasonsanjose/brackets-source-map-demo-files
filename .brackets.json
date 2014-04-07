@@ -1,0 +1,7 @@
+{
+    "path": {
+        "sass/bootstrap/*.scss": {
+            "sass.enabled": false
+        }
+    }
+}
