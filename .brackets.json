@@ -1,5 +1,15 @@
 {
     "path": {
+        "sass/bootstrap.scss": {
+            "sass.enabled": true,
+            "sass.options": {
+                "output": "bootstrap.css",
+                "includePaths": [],
+                "imagePath": null,
+                "sourceComments": "map",
+                "outputStyle": "nested"
+            }
+        },
         "sass/bootstrap/*.scss": {
             "sass.enabled": false
         }
