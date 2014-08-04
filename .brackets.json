@@ -3,15 +3,15 @@
         "sass/bootstrap.scss": {
             "sass.enabled": true,
             "sass.options": {
-                "output": "bootstrap.css",
-                "includePaths": [],
+                "output": "../css/bootstrap.css",
                 "imagePath": null,
                 "sourceComments": "map",
                 "outputStyle": "nested"
             }
         },
         "sass/bootstrap/*.scss": {
-            "sass.enabled": false
+            "sass.enabled": false,
+            "linting.collapsed": false
         }
     }
 }
