@@ -3,7 +3,7 @@
         "sass/bootstrap.scss": {
             "sass.enabled": true,
             "sass.options": {
-                "output": "../css/bootstrap.css",
+                "outputDir": "../css/",
                 "imagePath": null,
                 "sourceComments": "map",
                 "outputStyle": "nested"
